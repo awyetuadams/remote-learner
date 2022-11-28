@@ -1,0 +1,31 @@
+/* 
+    Document   : style
+    Created on : Dec 30, 2013, 10:06:32 PM
+    Author     : ibrahimballa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.schoolinfo{
+  font-family: Verdana;
+  -moz-column-count: 2;
+  -moz-column-gap: 1em;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 1em;
+  column-count: 2;
+  column-gap: 1em;
+  line-height: 1.5em;
+  color: rgb(69,54,37);
+}
+.centerme{
+    width:800px;
+    margin:10px auto;
+    
+}
+.slideme{
+    width:500px;
+    height:300px;
+}
+.history{
+    height:200px;
+}
