@@ -1,0 +1,9 @@
+#google_translate_element {
+  color: transparent;
+}
+#google_translate_element a {
+  display: none;
+}
+#div.goog-te-gadget {
+  color: transparent;
+}
